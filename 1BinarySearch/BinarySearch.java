@@ -1,4 +1,5 @@
 // Link - https://leetcode.com/problems/binary-search/
+// Time Complexity: O(logn), Space Complexity: O(1)
 class Solution {
   public int search(int[] nums, int target) {
       int s= 0, e = nums.length-1, answer=0, mid=0;

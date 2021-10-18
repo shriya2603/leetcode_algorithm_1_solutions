@@ -1,5 +1,6 @@
 
 // Link - https://leetcode.com/problems/search-insert-position/
+// Time Complexity: O(logn), Space Complexity: O(1)
 class Solution {
     public int searchInsert(int[] nums, int target) {
         int right = nums.length-1,left=0;

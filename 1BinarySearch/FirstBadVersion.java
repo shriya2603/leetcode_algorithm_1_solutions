@@ -1,4 +1,5 @@
 // Link - https://leetcode.com/problems/first-bad-version/
+// Time Complexity: O(logn), Space Complexity: O(1)
 public class Solution extends VersionControl {
     public int binarySearch(int l, int r, int a){
         if(r>=l){

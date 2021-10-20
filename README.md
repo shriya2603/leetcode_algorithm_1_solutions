@@ -12,7 +12,7 @@ A 14 days Study plan for ALgorithm By Leetcode - https://leetcode.com/study-plan
 - &#9745; Day 3 : **Two Pointers**
   - Move Zeroes
   - Two Sum II - Input array is sorted
-- &#9744; Day 4 : **Two Pointers**
+- &#9745; Day 4 : **Two Pointers**
   - Reverse String
   - Reverse Words in a String III
 - &#9744; Day 5 : **Two Pointers**

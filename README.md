@@ -15,7 +15,7 @@ A 14 days Study plan for ALgorithm By Leetcode - https://leetcode.com/study-plan
 - &#9745; Day 4 : **Two Pointers**
   - Reverse String
   - Reverse Words in a String III
-- &#9744; Day 5 : **Two Pointers**
+- &#9745; Day 5 : **Two Pointers**
   - Middle of the Linked List
   - Remove Nth Node From End of List
 - &#9744; Day 6 : **Sliding Window**

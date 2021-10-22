@@ -18,7 +18,7 @@ A 14 days Study plan for ALgorithm By Leetcode - https://leetcode.com/study-plan
 - &#9745; Day 5 : **Two Pointers**
   - Middle of the Linked List
   - Remove Nth Node From End of List
-- &#9744; Day 6 : **Sliding Window**
+- &#9745; Day 6 : **Sliding Window**
   - Longest substring without repeatitions
   - Permutation in String
 - &#9744; Day 7 : **Breadth-First Search / Depth-First Search**

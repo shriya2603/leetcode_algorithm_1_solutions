@@ -27,7 +27,7 @@ A 14 days Study plan for ALgorithm By Leetcode - https://leetcode.com/study-plan
 - &#9745; Day 8 : **Breadth-First Search / Depth-First Search**
   - Merge Two Binary Trees
   - Populating Next Right Pointers in Each Node
-- &#9744; Day 9 : **Breadth-First Search / Depth-First Search**
+- &#9745; Day 9 : **Breadth-First Search / Depth-First Search**
   - 01 Matrix
   - Rotting Oranges
 - &#9744; Day 10 : **Recursion / Backtracking**

@@ -24,7 +24,7 @@ A 14 days Study plan for ALgorithm By Leetcode - https://leetcode.com/study-plan
 - &#9745; Day 7 : **Breadth-First Search / Depth-First Search**
   - Flood Fill
   - Max Area of Island
-- &#9744; Day 8 : **Breadth-First Search / Depth-First Search**
+- &#9745; Day 8 : **Breadth-First Search / Depth-First Search**
   - Merge Two Binary Trees
   - Populating Next Right Pointers in Each Node
 - &#9744; Day 9 : **Breadth-First Search / Depth-First Search**

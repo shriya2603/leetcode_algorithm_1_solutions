@@ -33,7 +33,7 @@ A 14 days Study plan for ALgorithm By Leetcode - https://leetcode.com/study-plan
 - &#9745; Day 10 : **Recursion / Backtracking**
   - Merge Two Sorted Lists
   - Reverse Linked List
-- &#9744; Day 11 : **Recursion / Backtracking**
+- &#9745; Day 11 : **Recursion / Backtracking**
   - Combinations
   - Permutations
   - Letter Case Permutation

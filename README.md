@@ -37,9 +37,10 @@ A 14 days Study plan for ALgorithm By Leetcode - https://leetcode.com/study-plan
   - Combinations
   - Permutations
   - Letter Case Permutation
-- &#9744; Day 12 : **Dynamic Programming**
+- &#9745; Day 12 : **Dynamic Programming**
   - Climbing Stairs
   - House Robber
+  - Traingle
 - &#9744; Day 13 : **Bit Manipulation**
   - Power of Two
   - Number of 1 Bits

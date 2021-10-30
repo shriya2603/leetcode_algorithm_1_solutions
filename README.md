@@ -41,10 +41,10 @@ A 14 days Study plan for ALgorithm By Leetcode - https://leetcode.com/study-plan
   - Climbing Stairs
   - House Robber
   - Traingle
-- &#9744; Day 13 : **Bit Manipulation**
+- &#9745; Day 13 : **Bit Manipulation**
   - Power of Two
   - Number of 1 Bits
-- &#9744; Day 14 : **Bit Manipulation**
+- &#9745; Day 14 : **Bit Manipulation**
   - Reverse Bits
   - Single Number
 
